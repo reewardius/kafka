@@ -1,7 +1,7 @@
 # kafka
 ```
 > sudo apt-get install kafkacat
->pip install kafka-tools
+> pip install kafka-tools
 
 > kafka-tools -b IP:PORT print_topics - все топики
 > kafka-tools -b IP:PORT desc_topic <topicName> - топик инфо
